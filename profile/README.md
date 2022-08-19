@@ -6,6 +6,8 @@
 
 - ![Twin1](https://github.com/Twin1YT)
 
-- ![Oxu](https://github.com/orgs/CressIndustries/people/Oxuu1)
+- ![Oxu](https://github.com/Oxuu1)
+
+- Make sure to Joing the discord https://discord.gg/fudEF88JyA
 
 Thats all i can say cuz i wrote this at 3am so goodnight or day whatever
