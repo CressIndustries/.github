@@ -1,7 +1,7 @@
 <h1 align="center">Cress Industries</h1>
 
 <p align="center">Cress Industries is an upcoming Game Modding/Developing Group.</p>
-<p align="center">We are currently Working on CressMods. Stay Tuned for that</p>
+<p align="center">game</p>
 <h2 align="center">Members</h2>
 
 - ![Twin1](https://github.com/Twin1YT)
